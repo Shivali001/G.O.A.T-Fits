@@ -14,9 +14,9 @@ Welcome to G.O.A.T FITS, your ultimate destination for creating and customizing 
 - **Responsive 3D Application:** Experience seamless interaction with our responsive 3D design platform.
 - **Framer Motion Animation:** Enjoy smooth transitions and animations powered by Framer Motion.
 
-# Technologies used-
+## Technologies used-
 
-## Frontend Technology
+1. Frontend Technology
 
 - React.js
 - Three.js
@@ -27,7 +27,7 @@ Welcome to G.O.A.T FITS, your ultimate destination for creating and customizing 
 - Framer Motion
 - Valtio
 
-## Backend Technology
+2. Backend Technology
 
 - Node.js
 - Express.js
